@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">[Task 07] Layouts 02_3</string>
+    <string-array name="estado">
+        <item>soltero</item>
+        <item>Casado</item>
+    </string-array>
+
+    <string-array name="cargos">
+        <item>Ventas</item>
+        <item>Informática</item>
+        <item>Jardinería</item>
+    </string-array>
+
+</resources>
